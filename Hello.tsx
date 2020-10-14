@@ -6,6 +6,7 @@ function Hello() {
   return (
     <div>
       <TextInput />
+      
       <CharacterCount />
     </div>
   );
